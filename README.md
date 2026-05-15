@@ -355,7 +355,7 @@ All 3 slicers are synced across all 6 pages via `View → Sync slicers`. The sli
 
 | Page | Preview |
 |---|---|
-| P1 Sales overview | `screenshots/p1_sales_overview.png` |
+| P1 Sales overview | [screenshots/p1_sales_overview.png](https://github.com/paulavi700/Amazon_data_analysis-/issues/1#issue-4455078899) |
 | P2 Product analysis | `screenshots/p2_product_analysis.png` |
 | P3 Fulfillment | `screenshots/p3_fulfillment.png` |
 | P4 Segmentation | `screenshots/p4_segmentation.png` |
